@@ -29,7 +29,7 @@ Ci sono migliaia di ‘programmini’ divertenti che sono divertenti da implemen
 - Chi diveniva il vincitore diventava comandante per il prossimo episodio.
 - Il comandante sceglieva la disposizione delle 6 delle 24 tessere numeriche così composte:
     - 20 numeri piccoli (da 1 a 10) e 4 numeri grandi a caso.
-    - Il concorrente poteva decidere quanti numeri grandi utilizzare (da 0 a 4).
+    - Il comandante poteva decidere quanti numeri grandi utilizzare (da 0 a 4).
 - Venivano sorteggiati i numeri e dati ai concorrenti.
 - Una macchina generava un numero casuale.
 - I concorrenti dovevano trovare una sequenza di calcoli che si avvicini il più possibile al numero generato **entro 30 secondi**.
