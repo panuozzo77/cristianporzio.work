@@ -1,7 +1,13 @@
+baseurl: https://cristianporzio.work
+languageCode: en-us
+paginate: 5
+title: Cristian Porzio
+copyright: Cristian Porzio
+
 module:
     hugoVersion:
         extended: true
-        min: "0.87.0"
+        min: "0.119.0"
 
 params:
     mainSections:
@@ -21,7 +27,7 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Il mondo è un libro e quelli che non viaggiano ne leggono solo una pagina.
         avatar:
             enabled: true
             local: true
@@ -161,7 +167,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/panuozzo77
           params:
               icon: brand-github
 
