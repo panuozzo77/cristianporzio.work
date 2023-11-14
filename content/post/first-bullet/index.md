@@ -3,7 +3,10 @@ author = "Cristian Porzio"
 title = "Il mio primo Blog"
 date = "2023-11-12"
 description = "Sono particolarmente contento, è un esperimento che volevo fare da tempo!"
-
+tags = [
+    "blog",
+    "first-impression",
+]
 categories = [
     "Post",
 ]
